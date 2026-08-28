@@ -7,23 +7,40 @@ I'm currently learning web development and building practical projects while exp
 ## Tech Stack
 
 **Frontend**
-- HTML
-- CSS
-- JavaScript
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="40"/>
+</p>
 
 **Backend**
-- PHP
-- Laravel
-- Python
 
-**Tools**
-- Git
-- GitHub
-- VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python" height="40"/>
+</p>
+
+**Database & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="40"/>
+</p>
 
 ## Currently Learning
 
-- Full-Stack Web Development
-- Python
-- Laravel
-- Git & GitHub
+* Full-Stack Web Development
+* Python
+* Laravel
+* Git & GitHub
+
+## Projects
+
+* **ERP Web Application** — Web-based business management system
+* **Gesture Camera** — Python-based hand tracking project
+* **Personal Portfolio** — Responsive portfolio website
+
+## Contact
+
+<p>
+  <a href="https://github.com/muhamad-raihan77">
+    <img src="https://skillicons.dev/icons?i=github" height="32"/>
+  </a>
+</p>
