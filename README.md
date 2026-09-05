@@ -1,79 +1,111 @@
 # Muhamad Raihan
 
-**Information Systems Student · Web Developer**
+**Information Systems Student · Junior Full-Stack Web Developer**
 
-I'm an Information Systems student currently learning web development and building practical projects to improve my skills.
+I am an Information Systems student focused on web application development, with an interest in building practical and reliable software solutions.
 
-## 🛠️ Tech Stack
+My current focus is developing applications across the **frontend, backend, database, and API layers**, while continuously improving my software development practices through real-world projects.
 
-### 🎨 Frontend
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue" height="40"/>
-</p>
+## Technical Skills
 
-### ⚙️ Backend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue" height="38"/>
 </p>
 
-### 🗄️ Database
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django" height="38"/>
 </p>
 
-### 🔧 Tools & Environment
+### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,laragon" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="38"/>
 </p>
 
-## 📚 Currently Learning
+### Development Tools
 
-* Full-Stack Web Development
-* PHP & Laravel
-* CodeIgniter 3
-* Python & Django
-* JavaScript & Vue.js
-* REST API & Database
-* Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,laragon" height="38"/>
+</p>
 
-## 🚀 Projects
+---
+
+## Selected Projects
 
 ### ERP Web Application
 
-A web-based application designed to support business process management.
+A web-based enterprise resource planning application designed to support and integrate business processes within a centralized system.
 
-**PHP · Laravel · MySQL**
+**Technologies:** PHP · Laravel · MySQL
+
+---
+
+### Organization Management System
+
+A web-based management system designed to support organizational administration, including program management, documentation, proposals, member information, and organizational activities.
+
+**Technologies:** PHP · CodeIgniter 3 · MySQL
+
+---
 
 ### Gesture Camera
 
-A lightweight computer vision project for hand gesture detection.
+A lightweight computer vision application for real-time hand gesture detection and interaction using a webcam.
 
-**Python · OpenCV · MediaPipe**
+**Technologies:** Python · OpenCV · MediaPipe
+
+---
 
 ### Personal Portfolio
 
-A responsive portfolio website to showcase projects and learning progress.
+A responsive portfolio website developed to present projects, technical skills, and professional development progress.
 
-**HTML · CSS · JavaScript**
+**Technologies:** HTML · CSS · JavaScript
 
-## 🎯 Focus
+---
 
-Currently focused on learning how modern web applications work across the frontend, backend, database, and API layers.
+## Currently Learning
 
-## 📫 Connect
+* Full-Stack Web Development
+* Laravel & CodeIgniter
+* Python & Django
+* JavaScript & Vue.js
+* RESTful API Development
+* Database Design & Management
+* Git & GitHub
+* Web Application Architecture
+
+---
+
+## Development Focus
+
+I am currently focusing on:
+
+* Building maintainable and structured web applications
+* Developing backend systems and RESTful APIs
+* Designing efficient relational databases
+* Creating responsive and user-friendly interfaces
+* Applying version control and collaborative development practices
+* Improving software development skills through practical projects
+
+---
+
+## GitHub
 
 <p>
   <a href="https://github.com/muhamad-raihan77">
-    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+    <img src="https://skillicons.dev/icons?i=github" height="36"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <sub>Building practical solutions, learning continuously, and growing through every project.</sub>
 </p>
